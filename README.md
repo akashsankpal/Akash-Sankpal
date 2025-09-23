@@ -1,20 +1,20 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Iresh+Kanashetti;AWS+%26+DevOps+Learner;Cloud+Computing+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=#ffffff&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Akash+Sankpal;AWS+%26+DevOps+Learner;Cloud+Computing+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 <!-- Social Icons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ireshkanashetti-697620349/" target="_blank">
+  <a href="https://www.linkedin.com/in/akash-sankpal-4198b4296?/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/itz_iresh_45/" target="_blank">
+  <a href="https://www.instagram.com/akash_sankpal_patil/" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram"/>
   </a>
-  <a href="https://www.facebook.com/ireshkanashetti" target="_blank">
+  <a href="https://www.facebook.com/akash_sankpal_patil" target="_blank">
     <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:akashsankpal63@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
   </a>
 </p>
@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning *AWS & DevOps*  
 - 💡 Exploring *Cloud, CI/CD, Infrastructure as Code*  
 - ⚡ Fun fact: I love automating things 🚀  
-- 📫 Reach me at: *your-email@gmail.com*
+- 📫 Reach me at: akashsankpal63@gmail.com
 
 ---
 
