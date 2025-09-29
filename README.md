@@ -4,8 +4,11 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B;AWS+%26+DevOps+Learner;Cloud+Computing+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akashsankpal&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
-</h1>
 
 <!-- Social Icons -->
 <p align="center">
