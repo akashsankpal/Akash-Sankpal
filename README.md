@@ -12,16 +12,11 @@
   <a href="https://www.linkedin.com/in/akash-sankpal-4198b4296?/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/akash_sankpal_patil/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/akash_sankpal_patil" target="_blank">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
-  </a>
-  <a href="mailto:akashsankpal63@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/>
   </a>
 </p>
+
 
 ---
 
