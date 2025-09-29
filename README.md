@@ -29,8 +29,6 @@
 ---
 
 ### 🛠 Skills & Tools  
-<!-- 🌟 Skills & Tools -->
-<h3 align="center">🛠 Skills & Tools</h3>
 
 <p align="center">
   <!-- Cloud -->
