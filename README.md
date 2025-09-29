@@ -16,11 +16,6 @@
     <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/>
   </a>
 </p>
-## 📌 Profile Overview  
-
-| 👨‍💻 About Me | 🛠 Skills & Tools | 📊 GitHub Stats |
-|---------------|------------------|-----------------|
-| - 🌱 Learning **AWS & DevOps** <br> - 💡 Exploring **Cloud, CI/CD, IaC** <br> - ⚡ Love **automation** <br> - 📫 Reach me at: **akashsankpal63@gmail.com** | <p align="center"> <img src="https://img.shields.io/badge/AWS-Cloud-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> <br> <img src="https://img.shields.io/badge/DevOps-Tools-%2300599C.svg?&style=for-the-badge&logo=azuredevops&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Linux-System-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/> <br> <img src="https://img.shields.io/badge/Docker-Container-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Git-VersionControl-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> </p> | <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akashsankpal&show_icons=true&theme=tokyonight" height="150"/> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashsankpal&theme=tokyonight" height="150"/> </p> |
 
 
 ---
