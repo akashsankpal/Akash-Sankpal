@@ -2,7 +2,7 @@
 <h1 align="center">
   <span style="color: blue; font-weight: bold;">Hi 👋, I'm Akash</span><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Akash+Sankpal;AWS+%26+DevOps+Learner;Cloud+Computing+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&AWS+%26+DevOps+Learner;Cloud+Computing+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 <!-- Social Icons -->
