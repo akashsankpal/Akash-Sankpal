@@ -29,12 +29,26 @@
 ---
 
 ### 🛠 Skills & Tools  
-<p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-%2300599C.svg?&style=for-the-badge&logo=azuredevops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<!-- 🌟 Skills & Tools -->
+<h3 align="center">🛠 Skills & Tools</h3>
+
+<p align="center">
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/AWS-Cloud-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/DevOps-Culture-%2300599C.svg?&style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  
+  <!-- OS -->
+  <img src="https://img.shields.io/badge/Linux-System-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+<p align="center">
+  <!-- Container -->
+  <img src="https://img.shields.io/badge/Docker-Container-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+  
+  <!-- Version Control -->
+  <img src="https://img.shields.io/badge/Git-VersionControl-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
